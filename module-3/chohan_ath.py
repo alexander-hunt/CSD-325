@@ -1,3 +1,7 @@
+# Alexander Hunt - Nuvember 2nd 2025 -  Module 2.3
+# The purpose of this code is to play chohan.
+# changes are made to add initials to input prompt, house gets 12%, 2 or 7 will give player a bonus,
+
 """Cho-Han, by Al Sweigart al@inventwithpython.com
 The traditional Japanese dice game of even-odd.
 View this code athttps://nostarch.com/big-book-small-python-projects
